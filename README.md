@@ -58,17 +58,12 @@ You can customize these weights in [data/config.json](data/config.json).
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/abdultalha0862/Resume_Parser_Project.git
-cd Resume_Parser_Project
+git clone https://github.com/dhruvilacharya/resume_screening.git
+cd resume_screening
 ```
 
 2. **Create virtual environment**
 ```bash
-# Windows
-python -m venv venv
-.\venv\Scripts\Activate.ps1
-
-# Linux/Mac
 python3 -m venv venv
 source venv/bin/activate
 ```
@@ -195,8 +190,6 @@ For optimal results, structure your job description with:
 4. Select `app.py` as the main file
 5. Deploy (auto-updates on push)
 
-See [DEPLOYMENT.md](DEPLOYMENT.md) for detailed instructions.
-
 ### Local Network Deployment
 
 ```bash
@@ -292,23 +285,11 @@ Contributions are welcome! Please follow these steps:
 
 This project is open source and available under the [MIT License](LICENSE).
 
-## Author
-
-**Abdul Talha**
-- GitHub: [@abdultalha0862](https://github.com/abdultalha0862)
-
 ## Acknowledgments
 
 - Skills taxonomy inspired by industry standards
 - Built with Python and Streamlit community tools
 - Designed for HR professionals and recruitment teams
 
-## Support
-
-For issues, questions, or feature requests:
-- Open an issue on [GitHub Issues](https://github.com/abdultalha0862/Resume_Parser_Project/issues)
-- Email: [your-email@example.com]
-
 ---
 
-**Made with ❤️ for efficient recruitment**
